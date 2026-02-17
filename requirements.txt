@@ -1,3 +1,5 @@
 django
 numpy
 pandas
+psycopg2
+psycopg2-binary
